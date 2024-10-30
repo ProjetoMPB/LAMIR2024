@@ -1,0 +1,651 @@
+corpus,id,titulo
+BOSCO,01,Agnus sei
+BOSCO,02,Bala com bala
+BOSCO,03,A nível de
+BOSCO,04,De frente pro crime
+BOSCO,05,Boca de sapo
+BOSCO,06,Bijuterias
+BOSCO,07,Escadas da Penha
+BOSCO,08,Casa de marimbondo
+BOSCO,09,Dois pra lá, dois pra cá
+BOSCO,10,Falso brilhante
+BOSCO,11,Corsário
+BOSCO,12,Feminismo no Estácio
+BOSCO,13,Gol anulado
+BOSCO,14,Desenho de giz
+BOSCO,15,Kid cavaquinho
+BOSCO,16,Jogador
+BOSCO,17,Linha de passe
+BOSCO,18,Jade
+BOSCO,19,O rancho da goiabada
+BOSCO,20,Miss Suéter
+BOSCO,21,O mestre-sala dos mares
+BOSCO,22,Galos de briga
+BOSCO,23,Zona de fronteira
+BOSCO,24,Pirata azul
+BOSCO,25,Jandira da gandaia
+BOSCO,26,Latin lover
+BOSCO,27,Beirando a rumba
+BOSCO,28,Prêt-à-porter de tafetá
+BOSCO,29,Meu caro visconde
+BOSCO,30,Nação
+BOSCO,31,Quando o amor acontece
+BOSCO,32,Nossas últimas viagens
+BOSCO,33,Plataforma
+BOSCO,34,Querido diário
+BOSCO,35,Samba do pouso
+BOSCO,36,Nesta data
+BOSCO,37,Profissionalismo é isso aí
+BOSCO,38,Siameses
+BOSCO,39,O bêbado e a equilibrista
+BOSCO,40,Tenho dito
+BOSCO,41,Trilha sonora
+BOSCO,42,Ofício de um puxador
+BOSCO,43,Papel machê
+BOSCO,44,Violeta de Belford Roxo
+BOSCO,45,Siri recheado e o cacete
+BOSCO,46,Denúncia vazia
+BOSCO,47,Tabelas
+BOSCO,48,Terra dourada
+BOSCO,49,Tiro de misericórdia
+BOSCO,50,Um por todos
+CAETANO,01,A filha da Chiquita Bacana
+CAETANO,02,A outra banda da terra
+CAETANO,03,Atrás do trio elétrico
+CAETANO,04,Baby
+CAETANO,05,Cajuína
+CAETANO,06,Cinema Olímpia
+CAETANO,07,Chuva, suor e cerveja
+CAETANO,08,Coração vagabundo
+CAETANO,09,Alegria, alegria
+CAETANO,10,A tua presença morena
+CAETANO,11,Avarandado
+CAETANO,12,Beleza pura
+CAETANO,13,Cavaleiro de Jorge
+CAETANO,14,Como dois e dois
+CAETANO,15,Drama
+CAETANO,16,Luz do sol
+CAETANO,17,Dom de iludir
+CAETANO,18,Lua, lua, lua, lua
+CAETANO,19,Jeito de corpo
+CAETANO,20,Eclipse oculto
+CAETANO,21,Ele me deu um beijo na boca
+CAETANO,22,Esse cara
+CAETANO,23,Gema
+CAETANO,24,Gente
+CAETANO,25,Irene
+CAETANO,26,London London
+CAETANO,27,Milagres do povo
+CAETANO,28,Louco por você
+CAETANO,29,Lua de São Jorge
+CAETANO,30,Minha voz, minha vida
+CAETANO,31,Menino do Rio
+CAETANO,32,No dia em que eu vim-me embora
+CAETANO,33,Massa real
+CAETANO,34,Mel
+CAETANO,35,Meu bem, meu mal
+CAETANO,36,Muito
+CAETANO,37,Não identificado
+CAETANO,38,Nosso estranho amor
+CAETANO,39,Odara
+CAETANO,40,O leãozinho
+CAETANO,41,O quereres
+CAETANO,42,Os argonautas
+CAETANO,43,Quero ir a Cuba
+CAETANO,44,Outras palavras
+CAETANO,45,Pecado original
+CAETANO,46,Rapte-me camaleoa
+CAETANO,47,Podres poderes
+CAETANO,48,Sim, não
+CAETANO,49,Sampa
+CAETANO,50,Superbacana
+CHICO,01,A banda
+CHICO,02,A Rita
+CHICO,03,Acorda amor
+CHICO,04,Agora falando sério
+CHICO,05,Atrás da porta
+CHICO,06,Biscate
+CHICO,07,Apesar de você
+CHICO,08,Bye, bye, Brasil
+CHICO,09,Cálice
+CHICO,10,Carolina
+CHICO,11,Com açúcar e com afeto
+CHICO,12,Construção
+CHICO,13,Cotidiano
+CHICO,14,Desalento
+CHICO,15,Desencontro
+CHICO,16,Bastidores
+CHICO,17,Ela desatinou
+CHICO,18,Fado tropical
+CHICO,19,Feijoada completa
+CHICO,20,Futuros amantes
+CHICO,21,Flor da idade
+CHICO,22,Folhetim
+CHICO,23,Homenagem ao malandro
+CHICO,24,Januária
+CHICO,25,Joana francesa
+CHICO,26,Mambembe
+CHICO,27,Maninha
+CHICO,28,Meu caro amigo
+CHICO,29,Morena dos olhos d'água
+CHICO,30,Mulheres de Atenas
+CHICO,31,Não existe pecado ao sul do Equador
+CHICO,32,Noite dos mascarados
+CHICO,33,O meu amor
+CHICO,34,Olê Olá
+CHICO,35,Olhos nos olhos
+CHICO,36,Pedro pedreiro
+CHICO,37,Quem te viu, quem te vê
+CHICO,38,Roda viva
+CHICO,39,Samba de Orly
+CHICO,40,Sem fantasia
+CHICO,41,Samba e amor
+CHICO,42,Sob medida
+CHICO,43,Tatuagem
+CHICO,44,Vai trabalhar vagabundo
+CHICO,45,De todas as maneiras
+CHICO,46,De volta ao samba
+CHICO,47,Deixe a menina
+CHICO,48,Paratodos
+CHICO,49,Pelas tabelas
+CHICO,50,Samba do grande amor
+CHORO,01,Abrançando jacaré
+CHORO,02,A vida é um buraco
+CHORO,03,Agradecendo
+CHORO,04,Ainda me recordo
+CHORO,05,Atencioso
+CHORO,06,Ande ligeiro
+CHORO,07,Bom senso
+CHORO,08,As proezas de Nolasco
+CHORO,09,Canto em rodeio
+CHORO,10,Cascatinha
+CHORO,11,Carinhoso
+CHORO,12,Cheguei
+CHORO,13,Chorando sempre
+CHORO,14,Chorei
+CHORO,15,Concerto de baterias
+CHORO,16,Cuidado colega
+CHORO,17,Descendo a serra
+CHORO,18,Choro de gafieira
+CHORO,19,Desprezado
+CHORO,20,Destino da rosa
+CHORO,21,Devagar e sempre
+CHORO,22,Diabólica
+CHORO,23,Dininha
+CHORO,24,Domínio
+CHORO,25,Ele e eu
+CHORO,26,É isso mesmo
+CHORO,27,Fonte abandonada
+CHORO,28,Gargalhada
+CHORO,29,Homenagem a Flor Margarida
+CHORO,30,Ingênuo
+CHORO,31,Generoso
+CHORO,32,Joaquim virou padre
+CHORO,33,Lamentos
+CHORO,34,Minha vez
+CHORO,35,Naquele tempo
+CHORO,36,Não vou nessa
+CHORO,37,Os 8 batutas
+CHORO,38,Oscarina
+CHORO,39,Pagão
+CHORO,40,Parangolé
+CHORO,41,Passa tempo
+CHORO,42,Os 5 companheiros
+CHORO,43,Jurando falso
+CHORO,44,Quem é você
+CHORO,45,Rir pra não chorar
+CHORO,46,Segura ele
+CHORO,47,Seu Lourenço do vinho
+CHORO,48,Pretensioso
+CHORO,49,Proezas de Solon
+CHORO,50,Vou vivendo
+DJAVAN,01,Flor de lis
+DJAVAN,02,E que Deus ajude
+DJAVAN,03,Lilás
+DJAVAN,04,Nem um dia
+DJAVAN,05,Muito obrigado
+DJAVAN,06,Obi
+DJAVAN,07,Passou
+DJAVAN,08,Azul
+DJAVAN,09,Beiral
+DJAVAN,10,Om
+DJAVAN,11,Água
+DJAVAN,12,Álibi
+DJAVAN,13,Asa
+DJAVAN,14,Meu
+DJAVAN,15,Numa esquina de Hanói
+DJAVAN,16,Topázio
+DJAVAN,17,Nereci
+DJAVAN,18,Samba dobrado
+DJAVAN,19,Maçã
+DJAVAN,20,Dupla traição
+DJAVAN,21,Oceano
+DJAVAN,22,Alagoas
+DJAVAN,23,Estória de cantador
+DJAVAN,24,Mal de mim
+DJAVAN,25,Tem boi na linha
+DJAVAN,26,Lambada de serpente
+DJAVAN,27,Meu bem querer
+DJAVAN,28,Aquele um
+DJAVAN,29,Sururu de capote
+DJAVAN,30,Pedro Brasil
+DJAVAN,31,Seduzir
+DJAVAN,32,Faltando um pedaço
+DJAVAN,33,Samurai
+DJAVAN,34,Luz
+DJAVAN,35,Capim
+DJAVAN,36,Sina
+DJAVAN,37,Pétala
+DJAVAN,38,Açaí
+DJAVAN,39,Esfinge
+DJAVAN,40,Tanta saudade
+DJAVAN,41,Fato consumado
+DJAVAN,42,Serrado
+DJAVAN,43,Nobreza
+DJAVAN,44,Joaninha
+DJAVAN,45,Flor do medo
+DJAVAN,46,Sílaba
+DJAVAN,47,Que foi, my love
+DJAVAN,48,Doidice
+DJAVAN,49,Serene
+DJAVAN,50,Atitude
+GIL,01,Andar com fé
+GIL,02,Aquele abraço
+GIL,03,Aqui e agora
+GIL,04,Barato total
+GIL,05,Chororô
+GIL,06,Cérebro eletrônico
+GIL,07,Copo vazio
+GIL,08,Cores vivas
+GIL,09,Divino e maravilhoso
+GIL,10,Eu vim da Bahia
+GIL,11,Drão
+GIL,12,Era nova
+GIL,13,Extra
+GIL,14,Flora
+GIL,15,Ladeira da Preguiça
+GIL,16,Lamento sertanejo
+GIL,17,Lente do amor
+GIL,18,Lugar comum
+GIL,19,Mancada
+GIL,20,Menina do sonho
+GIL,21,Meu amigo, meu herói
+GIL,22,Morena
+GIL,23,O rouxinol
+GIL,24,O sonho acabou
+GIL,25,Palco
+GIL,26,Pessoa nefasta
+GIL,27,Preciso aprender a só ser
+GIL,28,Procissão
+GIL,29,Punk da periferia
+GIL,30,Raça humana
+GIL,31,Rebento
+GIL,32,Refazenda
+GIL,33,Sandra
+GIL,34,Se eu quiser falar com Deus
+GIL,35,Realce
+GIL,36,Sítio do Picapau Amarelo
+GIL,37,Bapa Alapala
+GIL,38,Back in Bahia
+GIL,39,Deixar você
+GIL,40,Domingo no parque
+GIL,41,Expresso 2222
+GIL,42,Luar
+GIL,43,Louvação
+GIL,44,Meio de campo
+GIL,45,Retiros espirituais
+GIL,46,Sarará miolo
+GIL,47,Soy loco por ti, América
+GIL,48,Super-homem
+GIL,49,Toda menina baiana
+GIL,50,Vamos fugir
+JAZZ,01,A Child is Born
+JAZZ,02,A Foggy Day
+JAZZ,03,A Night in Tunisia
+JAZZ,04,Afternoon in Paris
+JAZZ,05,All of Me
+JAZZ,06,All the Things You Are
+JAZZ,07,Anthropology
+JAZZ,08,April in Paris
+JAZZ,09,As Time Goes By
+JAZZ,10,Bewitched
+JAZZ,11,Bluesette
+JAZZ,12,Blues for Alice
+JAZZ,13,Body and Soul
+JAZZ,14,Cottontail
+JAZZ,15,Could It Be You
+JAZZ,16,Countdown
+JAZZ,17,Crystal Silence
+JAZZ,18,Days of Wine and Roses
+JAZZ,19,Dexterity
+JAZZ,20,Dolphin Dance
+JAZZ,21,The Duke
+JAZZ,22,Easy to Love
+JAZZ,23,Five Hundred Miles High
+JAZZ,24,For Heaven's Sake
+JAZZ,25,Four
+JAZZ,26,Giant Steps
+JAZZ,27,Goodbye Pork Pie Hat
+JAZZ,28,Have You Met Miss Jones
+JAZZ,29,How High the Moon
+JAZZ,30,I Can't Get Started
+JAZZ,31,I Love You
+JAZZ,32,In a Sentimental Mood
+JAZZ,33,In Your Own Sweet Way
+JAZZ,34,Long Ago and Far Away
+JAZZ,35,Night and Day
+JAZZ,36,Peri's Scope
+JAZZ,37,'Round Midnight
+JAZZ,38,Time Remembered
+JAZZ,39,Misty
+JAZZ,40,Mood Indigo
+JAZZ,41,My Funny Valentine
+JAZZ,42,Ornithology
+JAZZ,43,Pensativa
+JAZZ,44,Played Twice
+JAZZ,45,Prelude to a Kiss
+JAZZ,46,Satin Doll
+JAZZ,47,Semblance
+JAZZ,48,The Shadow of Your Smile
+JAZZ,49,The Song is You
+JAZZ,50,The Sorcerer
+JOBIM,01,Absolute Lee
+JOBIM,02,Água de Beber
+JOBIM,03,Ai, quem me dera
+JOBIM,04,Ângela
+JOBIM,05,Bebel
+JOBIM,06,Bonita
+JOBIM,07,Brigas nunca mais
+JOBIM,08,Caminho de Pedra
+JOBIM,09,Caminhos cruzados
+JOBIM,10,Canção do amor demais
+JOBIM,11,Chega de saudade
+JOBIM,12,Corcovado
+JOBIM,13,Demais
+JOBIM,14,Derradeira primavera
+JOBIM,15,Desafinado
+JOBIM,16,Dindi
+JOBIM,17,Discussão
+JOBIM,18,É preciso dizer adeus
+JOBIM,19,Ela é carioca
+JOBIM,20,Engano
+JOBIM,21,Este seu olhar
+JOBIM,22,Estrada do Sol
+JOBIM,23,Eu e o meu amor
+JOBIM,24,Eu sei que vou te amar
+JOBIM,25,Faz uma semana
+JOBIM,26,Garota de Ipanema
+JOBIM,27,Incerteza
+JOBIM,28,Insensatez
+JOBIM,29,Janelas abertas
+JOBIM,30,Lamento no morro
+JOBIM,31,Lígia
+JOBIM,32,Luar e batucada
+JOBIM,33,Luíza
+JOBIM,34,Mágoa
+JOBIM,35,Meditação
+JOBIM,36,Modinha
+JOBIM,37,O amor em paz
+JOBIM,38,Pois é
+JOBIM,39,Sabiá
+JOBIM,40,Samba de uma nota só
+JOBIM,41,Samba do avião
+JOBIM,42,Se todos fossem iguais a você
+JOBIM,43,Só danço samba
+JOBIM,44,Só tinha de ser com você
+JOBIM,45,Solidão
+JOBIM,46,Tereza da praia
+JOBIM,47,Triste
+JOBIM,48,Vivo sonhando
+JOBIM,49,Você vai ver
+JOBIM,50,Wave
+LINS,01,A cor do pôr do sol
+LINS,02,A noite
+LINS,03,Abre alas
+LINS,04,Acaso
+LINS,05,Agora
+LINS,06,"Ai, ai, ai, ai"
+LINS,07,Ainda te procuro
+LINS,08,Amor
+LINS,09,Anjo de mim
+LINS,10,Aos nossos filhos
+LINS,11,Bilhete
+LINS,12,Cantor da noite
+LINS,13,Choro das águas
+LINS,14,Daquilo que eu sei
+LINS,15,Depois dos temporais
+LINS,16,"Dinorah, Dinorah"
+LINS,17,Doce presença
+LINS,18,Essa maré
+LINS,19,Fogueiras
+LINS,20,Guarde nos olhos
+LINS,21,Iluminados
+LINS,22,Ituverava
+LINS,23,Joana dos Barcos
+LINS,24,Lembra
+LINS,25,Lembra de mim
+LINS,26,Leva e traz
+LINS,27,Madalena
+LINS,28,Meu país
+LINS,29,Mudança de ventos
+LINS,30,"Na areia, na beira do mar"
+LINS,31,Novo tempo
+LINS,32,O amor é o meu país
+LINS,33,Porta entreaberta
+LINS,34,Quadras de roda
+LINS,35,Rio de maio
+LINS,36,Saindo de mim
+LINS,37,Sertaneja
+LINS,38,Soberana Rosa
+LINS,39,Tens
+LINS,40,Um fado
+LINS,41,Velas içadas
+LINS,42,Vitoriosa
+LINS,43,Antes que seja tarde
+LINS,44,Arlequim desconhecido
+LINS,45,Aparecida
+LINS,46,Camaleão
+LINS,47,Bonito
+LINS,48,Bandeira do Divino
+LINS,49,Coragem mulher
+LINS,50,Cartomante
+LOBO,01,Abandono
+LOBO,02,Acalanto
+LOBO,03,A História de Lilly Braun
+LOBO,04,Águaverde
+LOBO,05,Arrastão
+LOBO,06,Arpoador
+LOBO,07,As Mesmas Histórias
+LOBO,08,Ave Rara
+LOBO,09,Beatriz
+LOBO,10,Borandá
+LOBO,11,Branca Dias
+LOBO,12,Candeias
+LOBO,13,Canção da terra
+LOBO,14,Casa forte
+LOBO,15,Canudos
+LOBO,16,Canto triste
+LOBO,17,Chegança
+LOBO,18,Choro bandido
+LOBO,19,Cidade nova
+LOBO,20,Considerando
+LOBO,21,Corrida de jangada
+LOBO,22,Corrupião
+LOBO,23,Descompassado
+LOBO,24,Dono do lugar
+LOBO,25,Dos navegantes
+LOBO,26,Frevo diabo
+LOBO,27,Lero-lero
+LOBO,28,Meia-noite
+LOBO,29,Memórias de Marta Sare
+LOBO,30,Meu namorado
+LOBO,31,Pra você que chora
+LOBO,32,Perambulando
+LOBO,33,Reza
+LOBO,34,Viola fora de moda
+LOBO,35,Vento bravo
+LOBO,36,Meus pensamentos de mágoa
+LOBO,37,Na carreira
+LOBO,38,Zanzibar
+LOBO,39,Só me fez bem
+LOBO,40,Senhora do rio
+LOBO,41,Na ilha de Lia, no barco de Rosa
+LOBO,42,Zanga zangada
+LOBO,43,Sobre todas as coisas
+LOBO,44,Upa neguinho
+LOBO,45,No cordão da saideira
+LOBO,46,O sertão
+LOBO,47,Zambi
+LOBO,48,Ponteio
+LOBO,49,Pianinho
+LOBO,50,Pra dizer adeus
+MILTON,01,A sede do peixe
+MILTON,02,A terceira margem do rio
+MILTON,03,Amor amigo
+MILTON,04,Cais
+MILTON,05,Canção amiga
+MILTON,06,Catavento
+MILTON,07,Caçanga
+MILTON,08,Clube da Esquina 2
+MILTON,09,Coração civil
+MILTON,10,Credo
+MILTON,11,Crença
+MILTON,12,Dança dos meninos
+MILTON,13,E daí
+MILTON,14,Maria Maria
+MILTON,15,Maria três filhos
+MILTON,16,Milagre dos peixes
+MILTON,17,Morro Velho
+MILTON,18,Nada será como antes
+MILTON,19,Olha
+MILTON,20,Os povos
+MILTON,21,Outubro
+MILTON,22,Pietà
+MILTON,23,Primeiro de maio
+MILTON,24,Rio vermelho
+MILTON,25,River Phoenix
+MILTON,26,Roupa nova
+MILTON,27,Saudades dos aviões da Panair
+MILTON,28,Tarde
+MILTON,29,Tema de Tostão
+MILTON,30,Travessia
+MILTON,31,Três Pontas
+MILTON,32,Tristesse
+MILTON,33,Um gosto de sol
+MILTON,34,Vera Cruz
+MILTON,35,Vida
+MILTON,36,Vidro e corte
+MILTON,37,Pelo amor de Deus
+MILTON,38,Cravo e canela
+MILTON,39,Saídas e bandeiras
+MILTON,40,San Vicente
+MILTON,41,A lágrima e o rio
+MILTON,42,Ao que vai nascer
+MILTON,43,Cadê
+MILTON,44,Coisas de Minas
+MILTON,45,O cavaleiro
+MILTON,46,Estrelada
+MILTON,47,Gira girou
+MILTON,48,Leila
+MILTON,49,Lília
+MILTON,50,Novena
+RITA,01,Agora é moda
+RITA,02,Agora só falta você
+RITA,03,Bandido coração
+RITA,04,Banho de espuma
+RITA,05,Bwana
+RITA,06,Com a boca no mundo
+RITA,07,Dançar pra não dançar
+RITA,08,Desculpe o auê
+RITA,09,Doce vampiro
+RITA,10,Esse tal de Roque Enrow
+RITA,11,Flagra
+RITA,12,Jardins da Babilônia
+RITA,13,Mamãe natureza
+RITA,14,Menino bonito
+RITA,15,Miss Brasil 2000
+RITA,16,Mutante
+RITA,17,Ovelha negra
+RITA,18,Pega rapaz
+RITA,19,Saúde
+RITA,20,Shangri-lá
+RITA,21,Te contei
+RITA,22,Vote em mim
+RITA,23,Chega mais
+RITA,24,Alô alô marciano
+RITA,25,Ando meio desligado
+RITA,26,Arrombou a festa
+RITA,27,Baila comigo
+RITA,28,Balada do louco
+RITA,29,Barata tonta
+RITA,30,Brazil com "S"
+RITA,31,Caso sério
+RITA,32,Cor de rosa choque
+RITA,33,Eu e o meu gato
+RITA,34,Lança perfume
+RITA,35,Mania de você
+RITA,36,Nem luxo nem lixo
+RITA,37,Orra meu
+RITA,38,Papai me empresta o carro
+RITA,39,Perigosa
+RITA,40,Perto do fogo
+RITA,41,Só de você
+RITA,42,Tititi
+RITA,43,Corre-corre
+RITA,44,Amor objeto
+RITA,45,Ambição
+RITA,46,Ando jururu
+RITA,47,Xuxuzinho
+RITA,48,Fruto proibido
+RITA,49,Livre outra vez
+RITA,50,O futuro me absolve
+SAMBA,01,Acreditar
+SAMBA,02,A voz do morro
+SAMBA,03,A flor e o espinho
+SAMBA,04,Agoniza mas não morre
+SAMBA,05,Agora é cinza
+SAMBA,06,Água na boca
+SAMBA,07,Ah! Que saudades da Amélia
+SAMBA,08,Alguém me avisou
+SAMBA,09,Amor aventureiro
+SAMBA,10,Amor de poeta
+SAMBA,11,A vida me fez assim
+SAMBA,12,Cabide de molambo
+SAMBA,13,Canta, canta, minha gente
+SAMBA,14,Confessa, meu bem
+SAMBA,15,Essa nega que me dá
+SAMBA,16,Fala, meu louro
+SAMBA,17,Jura
+SAMBA,18,Macaco, olha o teu rabo
+SAMBA,19,Me deixa em paz
+SAMBA,20,Mora na filosofia
+SAMBA,21,O meu nome já caiu no esquecimento
+SAMBA,22,Pelo telefone
+SAMBA,23,Quem são eles
+SAMBA,24,Vai, saudade
+SAMBA,25,Se você jurar
+SAMBA,26,Papagaio come milho
+SAMBA,27,Adeus, batucada
+SAMBA,28,Brasil pandeiro
+SAMBA,29,Festa para um rei negro
+SAMBA,30,Exaltação à Mangueira
+SAMBA,31,Foi um rio que passou em minha vida
+SAMBA,32,Os cinco bailes da história do Rio
+SAMBA,33,Coisa de pele
+SAMBA,34,Isaura
+SAMBA,35,Palpite infeliz
+SAMBA,36,Falsa baiana
+SAMBA,37,Apoteose ao samba
+SAMBA,38,Beija-me
+SAMBA,39,Eu queria um retratinho de você
+SAMBA,40,Feitio de oração
+SAMBA,41,Nega maluca
+SAMBA,42,Filosofia
+SAMBA,43,Abre a janela
+SAMBA,44,A primeira vez
+SAMBA,45,Se acaso você chegasse
+SAMBA,46,Coisa da antiga
+SAMBA,47,Lá vem a baiana
+SAMBA,48,Alô, alô
+SAMBA,49,Camisa amarela
+SAMBA,50,Rapaz folgado
